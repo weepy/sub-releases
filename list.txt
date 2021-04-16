@@ -1,7 +1,5 @@
-README.md
-list.txt
-sub.live-dev.zip
-sub.live-macos-v0.1.1-beta.dmg
-sub.live-macos-v0.2.0-beta.dmg
-sub.live-macos-v0.2.1-beta.dmg
-sub.live-macos-v0.2.2-beta.dmg
+sub.live-0.1.1.dmg
+sub.live-0.2.0.dmg
+sub.live-0.2.1.dmg
+sub.live-0.2.2.dmg
+sub.live-0.3.0.dmg
